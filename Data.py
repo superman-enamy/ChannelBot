@@ -20,13 +20,13 @@ By @StarkBots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots Coming Soon✨", url="https://t.me/Dtv_hindi")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/dtv_hindi")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/dtv_hindi")],
     ]
 
     # Help Message
@@ -50,9 +50,9 @@ Alternative Commands
     ABOUT = """
 **About This Bot** 
 
-A telegram channel automation bot by @StarkBots
+A telegram channel automation bot by @dtv_hindi
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/ChannelBot)
+Source Code : [Click Here](https://t.me/dtv_hindi)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
