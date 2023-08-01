@@ -10,7 +10,7 @@ Welcome to {}
 
 You can use me to manage channels with tons of features. Use below buttons to learn more !
 
-By @StarkBots
+By @dtv_hindi
     """
 
     # Home Button
